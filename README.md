@@ -1,5 +1,5 @@
 # 💫 About Me:
-❤️NAME : WASIF MUBEEN QURESHI<br>❤️FROM : ISLAMABAD<br>❤️ HOBBY: GYM ,BOXING,CODING<br>❤️FACEBOOK : Wasif Mubeen Qureshi<br>❤️YOUTUBE : MR WASIF<br>❤️TELEGRAM : MR BIXER 
+❤️NAME : WASIF MUBEEN QURESHI<br>❤️FROM : ISLAMABAD<br>❤️ HOBBY: GYM ,BOXING,CODING<br>❤️FACEBOOK : Wasif Mubeen Qureshi<br>❤️YOUTUBE : MR WASIF<br>❤️TELEGRAM : MR B0X3R 
 
 
 ## 🌐 Socials:
