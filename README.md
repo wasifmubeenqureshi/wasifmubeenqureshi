@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="./assets/about_matrix.gif" width="820px" alt="About Me Terminal Animation" />
+<img src="./about_matrix.gif" width="820px" alt="About Me Terminal Animation" />
 
 </div>
 ---
