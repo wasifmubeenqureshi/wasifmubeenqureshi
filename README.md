@@ -14,39 +14,15 @@
 
 ---
 
-## 🧬 About Me
+<div align="center">
 
-```python
-class WasifMubeenQureshi:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=🧬%20About%20Me&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=55" />
 
-    # ─── Identity ────────────────────────────────────────────────
-    name        = "Wasif Mubeen Qureshi"
-    role        = "Software Developer & Open Source Contributor"
-    location    = "Islamabad, Pakistan 🇵🇰"
-    timezone    = "PKT (UTC+5)"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=900&color=FF6B6B&center=true&vCenter=true&width=700&lines=👤+Wasif+Mubeen+Qureshi+—+Software+Developer;📍+Islamabad%2C+Pakistan+%7C+PKT+(UTC%2B5);🏋️+Boxer+%7C+Gym+Rat+%7C+Code+Enthusiast;🔓+Open+Source+Contributor+%40+ALLTOOLSOPENSOURCE;🚀+Interests%3A+Systems%2C+CLI+Tools%2C+Automation;🤝+Open+to%3A+Collabs%2C+Freelance%2C+Open+Source+PRs;💬+Telegram%3A+@MR_B0X3R+%7C+%22Trust+Me+You+Can't+Beat+Me+😤%22" alt="About Me Typing SVG" />
 
-    # ─── Skills ──────────────────────────────────────────────────
-    languages   = ["C", "C++", "C#", "Java", "Python", "JavaScript", "Crystal"]
-    databases   = ["SQLite"]
-    tools       = [".NET", "Apache", "Rancher"]
-    interests   = ["System Programming", "Open Source", "CLI Tools", "Automation"]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=twinkling" />
 
-    # ─── Life Outside Code ────────────────────────────────────────
-    hobbies     = ["Boxing 🥊", "Gym 🏋️", "Coding 💻"]
-    telegram    = "@MR_B0X3R"
-    motto       = "Trust Me You Can't Beat Me 😤"
-
-    # ─── Currently ───────────────────────────────────────────────
-    def current_focus(self):
-        return [
-            "🔨 Maintaining ALLTOOLSOPENSOURCE (49+ commits)",
-            "📦 Building open-source deco scripts & tools",
-            "📚 Deepening expertise in systems & backend dev",
-        ]
-
-    def open_to(self):
-        return ["Collaborations", "Open Source PRs", "Freelance Projects"]
-```
+</div>
 
 ---
 
