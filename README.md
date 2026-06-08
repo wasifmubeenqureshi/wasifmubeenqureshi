@@ -16,37 +16,61 @@
 
 ## 🧬 About Me
 
-```python
-class WasifMubeenQureshi:
+<div align="center">
 
-    # ─── Identity ────────────────────────────────────────────────
-    name        = "Wasif Mubeen Qureshi"
-    role        = "Software Developer & Open Source Contributor"
-    location    = "Islamabad, Pakistan 🇵🇰"
-    timezone    = "PKT (UTC+5)"
-
-    # ─── Skills ──────────────────────────────────────────────────
-    languages   = ["C", "C++", "C#", "Java", "Python", "JavaScript", "Crystal"]
-    databases   = ["SQLite"]
-    tools       = [".NET", "Apache", "Rancher"]
-    interests   = ["System Programming", "Open Source", "CLI Tools", "Automation"]
-
-    # ─── Life Outside Code ────────────────────────────────────────
-    hobbies     = ["Boxing 🥊", "Gym 🏋️", "Coding 💻"]
-    telegram    = "@MR_B0X3R"
-    motto       = "Trust Me You Can't Beat Me 😤"
-
-    # ─── Currently ───────────────────────────────────────────────
-    def current_focus(self):
-        return [
-            "🔨 Maintaining ALLTOOLSOPENSOURCE (49+ commits)",
-            "📦 Building open-source deco scripts & tools",
-            "📚 Deepening expertise in systems & backend dev",
-        ]
-
-    def open_to(self):
-        return ["Collaborations", "Open Source PRs", "Freelance Projects"]
 ```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ░██╗░░░░░░░██╗░█████╗░░██████╗██╗███████╗                         ║
+║   ░██║░░██╗░░██║██╔══██╗██╔════╝██║██╔════╝                         ║
+║   ░╚██╗████╗██╔╝███████║╚█████╗░██║█████╗░░                         ║
+║   ░░████╔═████║░██╔══██║░╚═══██╗██║██╔══╝░░                         ║
+║   ░░╚██╔╝░╚██╔╝░██║░░██║██████╔╝██║██║░░░░░                         ║
+║   ░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░░░░                         ║
+║                                                                      ║
+║  ┌─────────────────────────────────────────────────────────────┐    ║
+║  │  > INITIALIZING PROFILE...                                  │    ║
+║  │  > LOADING IDENTITY MODULE............................[OK]   │    ║
+║  │  > SCANNING SKILL MATRIX...........................[DONE]    │    ║
+║  │  > ESTABLISHING CONNECTION.........................[LIVE]    │    ║
+║  └─────────────────────────────────────────────────────────────┘    ║
+║                                                                      ║
+║  ┌──────────────────── IDENTITY ───────────────────────────────┐    ║
+║  │  NAME     ::  Wasif Mubeen Qureshi                          │    ║
+║  │  ROLE     ::  Software Developer & Open Source Contributor  │    ║
+║  │  ORIGIN   ::  Islamabad, Pakistan  🇵🇰                      │    ║
+║  │  TIMEZONE ::  PKT (UTC +5)                                  │    ║
+║  │  CONTACT  ::  Telegram → @MR_B0X3R                          │    ║
+║  └─────────────────────────────────────────────────────────────┘    ║
+║                                                                      ║
+║  ┌──────────────────── SKILL MATRIX ───────────────────────────┐    ║
+║  │  LANG     ::  C · C++ · C# · Java · Python · JS · Crystal  │    ║
+║  │  DB       ::  SQLite                                        │    ║
+║  │  INFRA    ::  .NET · Apache · Rancher                       │    ║
+║  │  TOOLS    ::  Git · GitHub · VS Code · Linux                │    ║
+║  │  DOMAIN   ::  Systems · CLI Tools · Automation · OSS        │    ║
+║  └─────────────────────────────────────────────────────────────┘    ║
+║                                                                      ║
+║  ┌──────────────────── CURRENT OPS ───────────────────────────┐    ║
+║  │  [🔨]  Maintaining ALLTOOLSOPENSOURCE  →  49+ commits       │    ║
+║  │  [📦]  Building open-source deco scripts & tools            │    ║
+║  │  [📚]  Deepening expertise in systems & backend dev          │    ║
+║  │  [🤝]  Open to: Collabs · Freelance · Open Source PRs       │    ║
+║  └─────────────────────────────────────────────────────────────┘    ║
+║                                                                      ║
+║  ┌──────────────────── LIFE.EXE ──────────────────────────────┐    ║
+║  │  [🥊]  Boxing          ████████████░░░░  75%               │    ║
+║  │  [🏋️]  Gym             ██████████░░░░░░  65%               │    ║
+║  │  [💻]  Coding          ████████████████  99%               │    ║
+║  │  MOTTO ::  "Trust Me You Can't Beat Me 😤"                  │    ║
+║  └─────────────────────────────────────────────────────────────┘    ║
+║                                                                      ║
+║  > STATUS: ONLINE & READY TO BUILD 🚀                               ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
